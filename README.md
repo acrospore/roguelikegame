@@ -10,3 +10,14 @@ Here, you can see all of my coding and your art.
 
 #####Coding
 * Me
+
+##To-Do List
+* ~~Camera and movement~~
+* Classes
+* Enemies and AI
+* Art and Music
+* Main menu and UI
+* Story
+* Multiplayer
+* Attacking and mechanics
+* Custom keyboard controls
