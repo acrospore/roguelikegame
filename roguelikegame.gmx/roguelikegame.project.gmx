@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\spr_player_ph</sprite>
     <sprite>sprites\spr_wall_ph</sprite>
+    <sprite>sprites\spr_heal</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -17,6 +18,8 @@
   <objects name="objects">
     <object>objects\obj_player</object>
     <object>objects\obj_wall</object>
+    <object>objects\obj_hud</object>
+    <object>objects\obj_heal</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_test</room>
