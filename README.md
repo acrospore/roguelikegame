@@ -6,13 +6,13 @@ Here, you can see all of my coding and your art.
 
 ###Contributors
 #####Art
-* Jorge
 * Hyperdust
-
 
 #####Coding
 * Me
 
+#####Balance
+* Jorge
 
 ###To-Do List
 * ~~Camera and movement~~
